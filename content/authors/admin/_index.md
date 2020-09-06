@@ -18,24 +18,27 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include biostatistics(particularly　clinical trial methodology, clinical epidemiology, regulatory science).
+bio: My research interests include biostatistics(particularly　clinical trial methodology, regulatory science).
 
 interests:
+- Biostatistics
 - Clinical Trial Methodology
-- clinical epidemiology
 - Regulatory Science
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Medicine
+    institution: Yokohama City University
+    year: 2019-
+  - course: MS in Medical Science
+    institution: Osaka City University
+    year: 2019
+  - course: MS in Health Science
+    institution: University of Tokyo
+    year: 2013
+  - course: BSc in Nursing
+    institution: National College of Nursing, Japan
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
