@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Hirofumi Go
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Yokohama City University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include biostatistics(particularly　clinical trial methodology, clinical epidemiology, regulatory science).
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Clinical Trial Methodology
+- clinical epidemiology
+- Regulatory Science
 
 education:
   courses:
