@@ -97,7 +97,7 @@ address = {street = "B442 3-9 Fukura Kanazawa-ku", city = "Yokohama", region = "
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "35.344", longitude = "139.6512"}
+coordinates = {latitude = "35.3445", longitude = "139.6511"}
 
 # Directions for visitors to locate you.
 directions = "Enter Building 1 and take the stairs to Office B442 on Floor 4"
