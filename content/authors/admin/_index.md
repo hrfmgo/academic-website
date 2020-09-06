@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Medicine
     institution: Yokohama City University
-    year: 2019-
+    year: 2019-Present
   - course: MS in Medical Science
     institution: Osaka City University
     year: 2019
@@ -72,7 +72,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Now I'm a second-year Ph.D student in the Department of Biostatistics at Yokohama City University, adivised by Kouji Yamamoto and Takeharu Yamanaka, broadly interested in improving the statistical methodology in clinical trials used in early phase trials. 
+To this end,  my dissertation research focuses on clinical trial in oncology, specifically a new methodology to improve trial's efficiency and flexibility. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Apart from research at graduate school, I also work as a biostatistician at the Yokohama City University's Center for Novel and Exploratory Clinical Trials and design and analyze various clinical trials.
