@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Clinical Research Professional"
+  title = "Project Manager"
   company = "Osaka City University Hospital"
   company_url = ""
   location = "Osaka"
