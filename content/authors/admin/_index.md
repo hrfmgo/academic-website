@@ -24,7 +24,7 @@ interests:
 - Biostatistics
 - Clinical Trial Methodology
 - Regulatory Science
-- Data isualization
+- Data Visualization
 
 education:
   courses:
