@@ -35,7 +35,7 @@ education:
     institution: Osaka City University
     year: 2019
   - course: MS in Health Science
-    institution: University of Tokyo
+    institution: The University of Tokyo
     year: 2013
   - course: BSc in Nursing
     institution: National College of Nursing, Japan
