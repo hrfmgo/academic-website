@@ -36,7 +36,7 @@ subtitle = ""
   icon = "edit"
   icon_pack = "fas"
   name = "Research Design"
-  description = "★★★★"
+  description = "★★★"
   
    [[feature]]
   icon = "glasses"
