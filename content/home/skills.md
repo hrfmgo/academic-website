@@ -36,13 +36,13 @@ subtitle = ""
   icon = "edit"
   icon_pack = "fas"
   name = "Research Design"
-  description = "★★★"
+  description = "★★★★"
   
    [[feature]]
   icon = "glasses"
   icon_pack = "fas"
   name = "Data Visualization"
-  description = "★★★"
+  description = "★★"
  
 
 # Uncomment to use emoji icons.
