@@ -21,7 +21,7 @@ subtitle = ""
   description = "★★★"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "dice"
   icon_pack = "fas"
   name = "Statistics"
   description = "★★"
@@ -31,7 +31,19 @@ subtitle = ""
   icon_pack = "fab"
   name = "Linux"
   description = "★"
+ 
+ [[feature]]
+  icon = "edit"
+  icon_pack = "fas"
+  name = "Research Design"
+  description = "★★★"
   
+   [[feature]]
+  icon = "glasses"
+  icon_pack = "fas"
+  name = "Data Visualization"
+  description = "★★★"
+ 
 
 # Uncomment to use emoji icons.
 # [[feature]]
