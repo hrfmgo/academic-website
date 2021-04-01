@@ -70,5 +70,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Now I'm a second-year Ph.D student in the Department of Biostatistics at Yokohama City University, adivised by Kouji Yamamoto and Takeharu Yamanaka, broadly interested in improving the statistical methodology in clinical trials used in early phase. 
+Now I'm a third-year Ph.D student in the Department of Biostatistics at Yokohama City University, adivised by Kouji Yamamoto and Takeharu Yamanaka, broadly interested in improving the statistical methodology in clinical trials used in early phase. 
 To this end, my dissertation research focuses on new clinical trial methodology to improve trial's efficiency and flexibility, specifically trials in oncology. 
