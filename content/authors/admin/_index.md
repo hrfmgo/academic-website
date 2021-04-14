@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Medicine
+  - course: Ph.D in Medicine
     institution: Yokohama City University
     year: 2019-Present
   - course: MS in Medical Science
